@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1364-tuple-with-same-product) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Design
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
 |  |
 | ------- |
@@ -51,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3447-clear-digits) |
+## Sorting
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
