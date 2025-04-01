@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1170-shortest-common-supersequence) |
+| [2262-solving-questions-with-brainpower](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2262-solving-questions-with-brainpower) |
 ## Two Pointers
 |  |
 | ------- |
