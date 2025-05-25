@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3819-count-covered-buildings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3819-count-covered-buildings) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3643-zero-array-transformation-ii) |
+| [3819-count-covered-buildings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3819-count-covered-buildings) |
 ## Design
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3001-apply-operations-to-maximize-score) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3819-count-covered-buildings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3819-count-covered-buildings) |
 ## Backtracking
 |  |
 | ------- |
