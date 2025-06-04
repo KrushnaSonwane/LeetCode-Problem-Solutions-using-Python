@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3447-clear-digits) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3707-find-the-most-common-response](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3707-find-the-most-common-response) |
 ## Counting
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0868-push-dominoes) |
 | [2551-apply-operations-to-an-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Matrix
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2998-count-symmetric-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Memoization
 |  |
 | ------- |
