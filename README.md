@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3227-find-missing-and-repeated-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3707-find-the-most-common-response](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3707-find-the-most-common-response) |
 | [3819-count-covered-buildings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3819-count-covered-buildings) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3447-clear-digits) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Ordered Set
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3001-apply-operations-to-maximize-score) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3001-apply-operations-to-maximize-score) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Tree
 |  |
 | ------- |
