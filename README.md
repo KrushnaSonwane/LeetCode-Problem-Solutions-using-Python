@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3707-find-the-most-common-response](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3707-find-the-most-common-response) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3819-count-covered-buildings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3819-count-covered-buildings) |
 ## String
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3707-find-the-most-common-response](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3707-find-the-most-common-response) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2448-count-number-of-bad-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3707-find-the-most-common-response](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3707-find-the-most-common-response) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
 |  |
 | ------- |
