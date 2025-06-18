@@ -1,11 +1,7 @@
 class Solution:
-    def divideArray(self, nums: List[int], k: int) -> List[List[int]]:
-        nums.sort()
-        res = []
-        for i in range(0, len(nums), 3):
-            a, b, c = nums[i], nums[i+1], nums[i+2]
-            if c - a <= k:
-                res.append([a, b, c])
-            else:
-                return []
+    def divideArray(self, A: List[int], k: int) -> List[List[int]]:
+        A.sort(); res = []
+        for i in range(0, len(A), 3):
+            if A[i+2] - A[i] > k: return []
+            res.append([A[i], A[i+1], A[i+2]])
         return res
