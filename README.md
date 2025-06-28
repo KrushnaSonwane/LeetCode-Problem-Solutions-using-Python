@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2448-count-number-of-bad-pairs) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
