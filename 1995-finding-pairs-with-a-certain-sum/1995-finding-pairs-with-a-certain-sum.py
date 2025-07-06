@@ -1,17 +1,20 @@
 class FindSumPairs:
 
     def __init__(self, nums1: List[int], nums2: List[int]):
-        self.hashT = Counter(nums2)
-        self.nums2 = nums2
-        self.nums1 = nums1
+        self.A = Counter(nums1); self.B = Counter(nums2)
+        self.num = nums2
+
 
     def add(self, index: int, val: int) -> None:
-        self.hashT[self.nums2[index]] -= 1
-        self.nums2[index] += val
-        self.hashT[self.nums2[index]] += 1
+        self.B[self.num[index]] -= 1
+        self.num[index] += val
+        self.B[self.num[index]] += 1
 
     def count(self, tot: int) -> int:
-        return sum(self.hashT[tot - num] for num in self.nums1)
+        res = 0
+        for a in self.A:
+            res += self.A[a] * self.B[tot-a]
+        return res
 
 
 # Your FindSumPairs object will be instantiated and called as such:
