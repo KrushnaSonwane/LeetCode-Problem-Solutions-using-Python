@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3819-count-covered-buildings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3819-count-covered-buildings) |
 ## String
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3819-count-covered-buildings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3819-count-covered-buildings) |
 ## Design
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Tree
 |  |
 | ------- |
