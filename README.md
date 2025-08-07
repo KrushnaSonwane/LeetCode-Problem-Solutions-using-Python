@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3643-zero-array-transformation-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3707-find-the-most-common-response](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3707-find-the-most-common-response) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Two Pointers
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0073-set-matrix-zeroes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3227-find-missing-and-repeated-values) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Sliding Window
 |  |
 | ------- |
