@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0768-partition-labels) |
+| [0900-reordered-power-of-2](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1364-tuple-with-same-product) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0900-reordered-power-of-2) |
 | [1364-tuple-with-same-product](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0368-largest-divisible-subset) |
+| [0900-reordered-power-of-2](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0900-reordered-power-of-2) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2202-sum-of-k-mirror-numbers) |
