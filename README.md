@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0038-count-and-say) |
+| [0165-compare-version-numbers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0165-compare-version-numbers) |
 | [0768-partition-labels](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1170-shortest-common-supersequence) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0165-compare-version-numbers) |
 | [0768-partition-labels](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
