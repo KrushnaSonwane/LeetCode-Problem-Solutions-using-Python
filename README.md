@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3707-find-the-most-common-response](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3707-find-the-most-common-response) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3483-alternating-groups-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3639-zero-array-transformation-i) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Function
 |  |
 | ------- |
