@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2690-house-robber-iv) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2681-put-marbles-in-bags](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3001-apply-operations-to-maximize-score) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2478-longest-nice-subarray) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3483-alternating-groups-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2690-house-robber-iv) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2915-count-of-interesting-subarrays](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -465,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
