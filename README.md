@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2625-increment-submatrices-by-one) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2400-minimum-score-after-removals-on-a-tree) |
