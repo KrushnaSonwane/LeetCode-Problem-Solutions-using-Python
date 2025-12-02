@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3623-count-number-of-trapezoids-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3623-count-number-of-trapezoids-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3707-find-the-most-common-response](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3623-count-number-of-trapezoids-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3623-count-number-of-trapezoids-i) |
 | [3639-zero-array-transformation-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3643-zero-array-transformation-ii) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3623-count-number-of-trapezoids-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -586,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
