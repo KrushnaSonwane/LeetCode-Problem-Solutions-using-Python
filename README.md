@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0474-ones-and-zeroes) |
 | [0768-partition-labels](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0868-push-dominoes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0944-delete-columns-to-make-sorted) |
 | [1170-shortest-common-supersequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0474-ones-and-zeroes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0944-delete-columns-to-make-sorted](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0944-delete-columns-to-make-sorted) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1335-maximum-candies-allocated-to-k-children) |
