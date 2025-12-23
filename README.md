@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2054-two-best-non-overlapping-events](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2434-design-a-number-container-system](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2434-design-a-number-container-system) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0900-reordered-power-of-2) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2092-find-all-people-with-secret) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2054-two-best-non-overlapping-events](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2262-solving-questions-with-brainpower) |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2665-minimum-time-to-repair-cars) |
