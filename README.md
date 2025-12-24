@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3074-apple-redistribution-into-boxes) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3433-count-mentions-per-user](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3433-count-mentions-per-user) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
