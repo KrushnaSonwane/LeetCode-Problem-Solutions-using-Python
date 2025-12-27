@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2308-divide-array-into-equal-pairs) |
+| [2402-meeting-rooms-iii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2402-meeting-rooms-iii) |
 | [2434-design-a-number-container-system](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2402-meeting-rooms-iii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2402-meeting-rooms-iii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2402-meeting-rooms-iii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2402-meeting-rooms-iii) |
 | [2434-design-a-number-container-system](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2479-meeting-rooms-iii) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2402-meeting-rooms-iii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2681-put-marbles-in-bags) |
