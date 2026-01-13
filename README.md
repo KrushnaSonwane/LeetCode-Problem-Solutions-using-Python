@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3433-count-mentions-per-user](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3433-count-mentions-per-user) |
+| [3453-separate-squares-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3453-separate-squares-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3483-alternating-groups-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2690-house-robber-iv) |
+| [3453-separate-squares-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3453-separate-squares-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3790-fruits-into-baskets-ii) |
