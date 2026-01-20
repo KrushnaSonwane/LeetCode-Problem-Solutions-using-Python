@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0175-combine-two-tables) |
 | [0627-swap-sex-of-employees](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0627-swap-sex-of-employees) |
 | [1393-capital-gainloss](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1393-capital-gainloss) |
 | [1587-bank-account-summary-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1587-bank-account-summary-ii) |
