@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0182-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0627-swap-sex-of-employees) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1587-bank-account-summary-ii) |
