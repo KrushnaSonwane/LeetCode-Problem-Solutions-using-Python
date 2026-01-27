@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Ordered Set
 |  |
 | ------- |
@@ -682,4 +683,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1587-bank-account-summary-ii) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
