@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1895-largest-magic-square](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1895-largest-magic-square) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1929-concatenation-of-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1929-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2402-meeting-rooms-iii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2479-meeting-rooms-iii) |
