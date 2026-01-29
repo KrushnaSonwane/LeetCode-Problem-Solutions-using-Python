@@ -3,10 +3,7 @@ select
     id,
     case
         when id % 2 = 0 then lag(student) over()
-        else 
-            case
-                when lead(student) over() is null then student
-                else lead(student) over()
-            end
+        when lead(student) over() is null then student
+        else lead(student) over()
     end as student
 from Seat
