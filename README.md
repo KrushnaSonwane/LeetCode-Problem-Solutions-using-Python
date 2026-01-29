@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0577-employee-bonus) |
+| [0619-biggest-single-number](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0627-swap-sex-of-employees) |
 | [1174-immediate-food-delivery-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1174-immediate-food-delivery-ii) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1327-list-the-products-ordered-in-a-period) |
