@@ -694,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0627-swap-sex-of-employees) |
 | [1174-immediate-food-delivery-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1393-capital-gainloss) |
