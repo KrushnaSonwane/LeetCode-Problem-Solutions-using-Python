@@ -697,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0627-swap-sex-of-employees) |
+| [1075-project-employees-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1075-project-employees-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1204-last-person-to-fit-in-the-bus) |
