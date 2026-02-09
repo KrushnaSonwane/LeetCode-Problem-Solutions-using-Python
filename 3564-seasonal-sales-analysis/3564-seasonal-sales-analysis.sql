@@ -14,15 +14,16 @@ with tmp as (
     from sales
 ),
 
-a as (select 
-    t.season,
-    p.category,
-    sum(t.quantity) as total_quantity,
-    sum(t.total) as total_revenue
-from tmp t
-left join products p
-on p.product_id = t.product_id
-group by season, p.category
+a as ( 
+    select 
+        t.season,
+        p.category,
+        sum(t.quantity) as total_quantity,
+        sum(t.total) as total_revenue
+    from tmp t
+    left join products p
+    on p.product_id = t.product_id
+    group by season, p.category
 )
 select 
     season,
@@ -30,6 +31,15 @@ select
     total_quantity,
     total_revenue
 from(
-select *, rank() over(partition by aa.season order by aa.total_quantity desc, aa.total_revenue desc, aa.category) as rnk
-from a aa) as aaa
+    select 
+    *, 
+    rank() over(
+        partition by aa.season 
+        order by 
+            aa.total_quantity desc, 
+            aa.total_revenue desc, 
+            aa.category
+    ) as rnk
+    from a aa
+) as aaa
 where rnk = 1
