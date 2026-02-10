@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0900-reordered-power-of-2) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1364-tuple-with-same-product) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0900-reordered-power-of-2) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1364-tuple-with-same-product](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0474-ones-and-zeroes) |
 | [0840-magic-squares-in-grid](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0840-magic-squares-in-grid) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0944-delete-columns-to-make-sorted) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0826-soup-servings) |
 | [0840-magic-squares-in-grid](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0900-reordered-power-of-2) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1448-maximum-69-number) |
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3001-apply-operations-to-maximize-score) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
