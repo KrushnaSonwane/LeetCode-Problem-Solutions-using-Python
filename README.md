@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0165-compare-version-numbers) |
 | [0474-ones-and-zeroes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0868-push-dominoes) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0165-compare-version-numbers) |
+| [0696-count-binary-substrings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
