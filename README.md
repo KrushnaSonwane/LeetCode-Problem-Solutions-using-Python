@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
