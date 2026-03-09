@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2915-count-of-interesting-subarrays) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3616-make-array-elements-equal-to-zero) |
