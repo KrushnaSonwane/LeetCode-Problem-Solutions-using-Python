@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0944-delete-columns-to-make-sorted) |
 | [1170-shortest-common-supersequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1170-shortest-common-supersequence) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1980-find-unique-binary-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1980-find-unique-binary-string) |
