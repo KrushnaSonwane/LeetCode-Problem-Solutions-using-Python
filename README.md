@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1622-fancy-sequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1448-maximum-69-number) |
+| [1622-fancy-sequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
