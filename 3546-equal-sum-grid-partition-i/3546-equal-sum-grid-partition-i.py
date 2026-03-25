@@ -1,14 +1,10 @@
 class Solution:
     def canPartitionGrid(self, A: List[List[int]]) -> bool:
         sum_ = sum(num for a in A for num in a)
-        currSum = 0
-        for j in range(len(A[0])):
-            for i in range(len(A)):
-                currSum += A[i][j]
-            if currSum == sum_ - currSum: return True
-        currSum = 0
-        for i in range(len(A)):
-            for j in range(len(A[0])):
-                currSum += A[i][j]
-            if currSum == sum_ - currSum: return True
-        return False
+        def solve(a, b, currSum, rev):
+            for i in range(a):
+                for j in range(b):
+                    currSum += A[i if rev else j][j if rev else i]
+                if currSum == sum_ - currSum: return True
+            return False
+        return solve(len(A[0]), len(A), 0, 0) or solve(len(A), len(A[0]), 0, 1)
