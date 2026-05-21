@@ -1,22 +1,30 @@
 # Write your MySQL query statement below
-with tmp as (
-select m.user_id, count(*) as cn, u.name as results
-from MovieRating m
-inner join Users u
-on u.user_id = m.user_id
-group by user_id
-order by cn desc, u.name
-limit 1),
+WITH first AS(
+    SELECT
+        u.name as results,
+        COUNT(*) as cnt
+    FROM Users u
+    JOIN MovieRating mr
+    ON mr.user_id = u.user_id
+    GROUP BY u.user_id
+    ORDER BY 2 DESC, 1 ASC
+    LIMIT 1
+),
+second AS(
+    SELECT
+        m.title as results,
+        AVG(mr.rating)
+    FROM Movies m
+    JOIN MovieRating mr
+    ON m.movie_id = mr.movie_id AND YEAR(mr.created_at) = 2020 AND MONTH(mr.created_at) = 2
+    GROUP BY mr.movie_id
+    ORDER BY 2 DESC, 1 ASC
+    LIMIT 1
+)
 
-tmp2 as (select mr.movie_id, avg(mr.rating) as aa, m.title as results
-from MovieRating mr
-inner join Movies m
-on mr.movie_id = m.movie_id
-where year(created_at) = 2020 and month(created_at) = 02
-group by mr.movie_id
-order by aa desc, results
-limit 1)
-
-select results from tmp
-union all
-select results from tmp2
+SELECT
+    results
+FROM first
+UNION ALL
+SELECT results
+FROM second
