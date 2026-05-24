@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1200-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1340-jump-game-v](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1345-jump-game-iv) |
 | [1364-tuple-with-same-product](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1200-minimum-absolute-difference) |
+| [1340-jump-game-v](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1340-jump-game-v) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1170-shortest-common-supersequence) |
+| [1340-jump-game-v](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
