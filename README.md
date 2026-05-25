@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1871-jump-game-vii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1871-jump-game-vii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-jump-game-vii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1871-jump-game-vii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2054-two-best-non-overlapping-events) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1813-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1871-jump-game-vii) |
 | [2478-longest-nice-subarray](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2478-longest-nice-subarray) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2483-minimum-penalty-for-a-shop) |
