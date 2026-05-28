@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3093-longest-common-suffix-queries](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3194-find-words-containing-character) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3074-apple-redistribution-into-boxes) |
+| [3093-longest-common-suffix-queries](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3093-longest-common-suffix-queries) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3093-longest-common-suffix-queries](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3093-longest-common-suffix-queries) |
 ## Combinatorics
 |  |
 | ------- |
