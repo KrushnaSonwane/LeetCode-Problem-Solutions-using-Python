@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1732-find-the-highest-altitude](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1732-find-the-highest-altitude) |
 | [1813-maximum-erasure-value](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2059-unique-length-3-palindromic-subsequences) |
