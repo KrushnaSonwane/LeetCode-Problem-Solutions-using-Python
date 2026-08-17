@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1563-stone-game-v](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1448-maximum-69-number) |
+| [1563-stone-game-v](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1563-stone-game-v](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1563-stone-game-v) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1871-jump-game-vii) |
@@ -905,4 +908,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
