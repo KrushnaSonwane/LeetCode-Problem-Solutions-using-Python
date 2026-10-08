@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1170-shortest-common-supersequence](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1170-shortest-common-supersequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -935,5 +937,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
