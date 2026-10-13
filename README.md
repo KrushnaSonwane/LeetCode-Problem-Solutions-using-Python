@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3707-find-the-most-common-response](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3707-find-the-most-common-response) |
 | [3719-longest-balanced-subarray-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3719-longest-balanced-subarray-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3819-count-covered-buildings](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3819-count-covered-buildings) |
 ## Backtracking
 |  |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/KrushnaSonwane/LeetCode-Problem-Solutions-using-Python/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
